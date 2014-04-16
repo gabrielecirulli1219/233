@@ -1,7 +1,7 @@
 function Tile(position, value, index) {
   this.x                = position.x;
   this.y                = position.y;
-  this.value            = value || 2;
+  this.value            = value;
   this.index            = index;
 
   this.previousPosition = null;
