@@ -182,7 +182,7 @@ hr {
       margin-top: 222px; }
     .game-container .game-message .lower {
       display: block;
-      margin-top: 59px; }
+      margin-top: 29px; }
     .game-container .game-message a {
       display: inline-block;
       background: #8f7a66;
@@ -524,8 +524,8 @@ hr {
     -moz-user-select: none;
     background: #bbada0;
     border-radius: 6px;
-    width: 215px;
-    height: 215px;
+    width: 280px;
+    height: 280px;
     -webkit-box-sizing: border-box;
     -moz-box-sizing: border-box;
     box-sizing: border-box; }
